@@ -1,10 +1,4 @@
 
-note: 
-
-This program works, I have attached screenshos of my running results. 
-but because the instability of the internet , sometimes connection will break and may not work. 
-Pleas run a few times if the firs time is not successful. 
-Please read !most important! below , it explains unsuccessful run. 
 
 How to run : 
 1. type: "make " , it will generae "admin.exe" "clien.exe" or you can use the ".admin.exe" or ".client.txt" 
@@ -22,5 +16,5 @@ How to run :
 control c in client terminal to terminate , and you will see the error message in admin. exe. 
 control c in admin terminal to terminate, and repeat step 2- step 6 to re-run admin.exe and client.exe 
 
-if you have any questions, please contact me at kxy200010@utdallas.edu
+
 
