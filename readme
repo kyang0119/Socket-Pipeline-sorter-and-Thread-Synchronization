@@ -1,0 +1,26 @@
+
+note: 
+
+This program works, I have attached screenshos of my running results. 
+but because the instability of the internet , sometimes connection will break and may not work. 
+Pleas run a few times if the firs time is not successful. 
+Please read !most important! below , it explains unsuccessful run. 
+
+How to run : 
+1. type: "make " , it will generae "admin.exe" "clien.exe" or you can use the ".admin.exe" or ".client.txt" 
+    I already included.  
+2. type" ./admin.exe " to run admin.exe
+3. open another teminal and type" ./clien.exe 48" , the second number(48)is user input CID number, 
+    you may enter any number you wish. 
+4. enter file name "sortin.txt" or "sortreq2.in.txt" or "sortin2.txt" and enter . These 3 .txt files are 
+    included in my project folder. 
+5. if you want send another file.  run "./client.exe 23" again , and submit the file needed to be sorted. 
+    the "23" can be any number you want to give as the CID numbe.  
+6. type “make clean” to clean the intemediae .o file.s 
+
+! most important ! note: if client stuck at "array sent to server" , it is usually because the receive part is not successful . 
+control c in client terminal to terminate , and you will see the error message in admin. exe. 
+control c in admin terminal to terminate, and repeat step 2- step 6 to re-run admin.exe and client.exe 
+
+if you have any questions, please contact me at kxy200010@utdallas.edu
+
